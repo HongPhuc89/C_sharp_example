@@ -104,5 +104,26 @@ namespace Chapter2
             lbResult.Text = "cot(x) is";
             txtReslut.Text = Trigonometric_func.cot(x).ToString();
         }
+        // The Ceiling(x)
+        private void ceilingToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            double x = double.Parse(txtBoxX.Text);
+            lbResult.Text = "Rounding(x) is";
+            txtReslut.Text = Rounding_func.ceil(x).ToString();
+        }
+        // The Floor Method
+        private void floorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            double x = double.Parse(txtBoxX.Text);
+            lbResult.Text = "Rounding(x) is";
+            txtReslut.Text = Rounding_func.floor(x).ToString();
+        }
+        // The Truncation Method
+        private void truncationToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            double x = double.Parse(txtBoxX.Text);
+            lbResult.Text = "Rounding(x) is";
+            txtReslut.Text = Rounding_func.trunc(x).ToString();
+        }
     }
 }

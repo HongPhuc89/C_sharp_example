@@ -14,3 +14,11 @@ D:\Work\Workspace\C#\Chapter2\Chapter2\obj\Debug\ResolveAssemblyReference.cache
 D:\Work\Workspace\C#\Chapter2\Chapter2\obj\Debug\Chapter2.Form1.resources
 D:\Work\Workspace\C#\Chapter2\Chapter2\obj\Debug\Chapter2.Properties.Resources.resources
 D:\Work\Workspace\C#\Chapter2\Chapter2\obj\Debug\Chapter2.csproj.GenerateResource.Cache
+C:\Users\HongPhuc\Documents\GitHub\C_sharp_example\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+C:\Users\HongPhuc\Documents\GitHub\C_sharp_example\Chapter2\Chapter2\obj\Debug\Chapter2.pdb
+C:\Users\HongPhuc\Documents\GitHub\C_sharp_example\Chapter2\Chapter2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HongPhuc\Documents\GitHub\C_sharp_example\Chapter2\Chapter2\obj\Debug\Chapter2.Form1.resources
+C:\Users\HongPhuc\Documents\GitHub\C_sharp_example\Chapter2\Chapter2\obj\Debug\Chapter2.Properties.Resources.resources
+C:\Users\HongPhuc\Documents\GitHub\C_sharp_example\Chapter2\Chapter2\obj\Debug\Chapter2.csproj.GenerateResource.Cache
+C:\Users\HongPhuc\Documents\GitHub\C_sharp_example\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+C:\Users\HongPhuc\Documents\GitHub\C_sharp_example\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
