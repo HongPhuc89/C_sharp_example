@@ -1,0 +1,5 @@
+D:\ebook\C #\De cuong\Bai_tap\bai21\bai21\obj\Debug\ResolveAssemblyReference.cache
+D:\ebook\C #\De cuong\Bai_tap\bai21\bai21\bin\Debug\bai21.exe
+D:\ebook\C #\De cuong\Bai_tap\bai21\bai21\bin\Debug\bai21.pdb
+D:\ebook\C #\De cuong\Bai_tap\bai21\bai21\obj\Debug\bai21.exe
+D:\ebook\C #\De cuong\Bai_tap\bai21\bai21\obj\Debug\bai21.pdb

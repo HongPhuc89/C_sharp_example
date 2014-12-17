@@ -1,0 +1,5 @@
+D:\ebook\C #\De cuong\Bai_tap\Bai40\Bai40\bin\Debug\Bai40.exe
+D:\ebook\C #\De cuong\Bai_tap\Bai40\Bai40\bin\Debug\Bai40.pdb
+D:\ebook\C #\De cuong\Bai_tap\Bai40\Bai40\obj\Debug\ResolveAssemblyReference.cache
+D:\ebook\C #\De cuong\Bai_tap\Bai40\Bai40\obj\Debug\Bai40.exe
+D:\ebook\C #\De cuong\Bai_tap\Bai40\Bai40\obj\Debug\Bai40.pdb

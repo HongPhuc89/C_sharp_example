@@ -1,0 +1,5 @@
+D:\ebook\C #\De cuong\Bai_tap\Class_and_object\Class_and_object\obj\Debug\ResolveAssemblyReference.cache
+D:\ebook\C #\De cuong\Bai_tap\Class_and_object\Class_and_object\bin\Debug\Class_and_object.exe
+D:\ebook\C #\De cuong\Bai_tap\Class_and_object\Class_and_object\bin\Debug\Class_and_object.pdb
+D:\ebook\C #\De cuong\Bai_tap\Class_and_object\Class_and_object\obj\Debug\Class_and_object.exe
+D:\ebook\C #\De cuong\Bai_tap\Class_and_object\Class_and_object\obj\Debug\Class_and_object.pdb
